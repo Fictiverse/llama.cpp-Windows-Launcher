@@ -34,7 +34,7 @@ A lightweight, Windows desktop launcher for `llama.cpp` builds. This GUI launche
 ├── run.py               # Core PyQt6 Python application
 ├── logo.svg             # Application window icon (Scalable vector format)
 ├── logo.ico             # Desktop binary executable icon resource (Windows native)
-└── logo_full.png        # Graphical logo displayed inside the main home view
+└── logo_full.png        # Graphical logo displayed inside the main home view (can be replaced with any image using the same filename)
 ```
 
 ---
