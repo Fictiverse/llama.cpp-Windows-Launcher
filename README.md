@@ -7,9 +7,9 @@ A lightweight, retro Windows 95 styled desktop launcher for `llama.cpp` builds. 
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square)
 
 <p align="center">
+<img width="392" height="361" alt="1" src="https://github.com/user-attachments/assets/d842e328-6dee-47a1-84c9-3aa3fbc880ed" />
 <img width="391" height="361" alt="3" src="https://github.com/user-attachments/assets/6ed41805-56fa-49a6-ae5c-0f3408512003" />
 <img width="392" height="556" alt="2" src="https://github.com/user-attachments/assets/df149107-ccc0-4034-9445-65c2e11f7959" />
-<img width="392" height="361" alt="1" src="https://github.com/user-attachments/assets/d842e328-6dee-47a1-84c9-3aa3fbc880ed" />
 </p>
 
 
