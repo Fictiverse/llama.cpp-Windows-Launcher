@@ -1,6 +1,6 @@
 # llama.cpp Windows Launcher
 
-A lightweight, retro Windows 95 styled desktop launcher for `llama.cpp` builds. This GUI launcher is designed to easily configure, manage, and run both `llama-server` and `llama-cli` alongside your GGUF models.
+A lightweight, Windows desktop launcher for `llama.cpp` builds. This GUI launcher is designed to easily configure, manage, and run both `llama-server` and `llama-cli` alongside your GGUF models.
 
 ![Windows 95 Style](https://img.shields.io/badge/Style-Windows_95-grey?style=flat-square)
 ![PyQt6](https://img.shields.io/badge/Built_with-PyQt6-blue?style=flat-square)
