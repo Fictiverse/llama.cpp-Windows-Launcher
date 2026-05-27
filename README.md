@@ -28,7 +28,6 @@ A lightweight, retro Windows 95 styled desktop launcher for `llama.cpp` builds. 
 ├── launcher.bat         # Sets up local virtual environment, installs PyQt6 and runs run.py
 ├── run.py               # Core PyQt6 Python application
 ├── logo.svg             # Application window icon (Scalable vector format)
-├── logo.png             # Fallback window icon (Raster format)
 ├── logo.ico             # Desktop binary executable icon resource (Windows native)
 └── logo_full.png        # Graphical logo displayed inside the main home view
 ```
@@ -43,7 +42,7 @@ A lightweight, retro Windows 95 styled desktop launcher for `llama.cpp` builds. 
 ### Execution Steps
 1. Clone this repository into your desired directory:
    ```bash
-   git clone https://github.com/your-username/llama.cpp-Windows-Launcher.git
+   git clone https://github.com/Fictiverse/llama.cpp-Windows-Launcher.git
    cd llama.cpp-Windows-Launcher
    ```
 2. Double-click the **`launcher.bat`** file.
