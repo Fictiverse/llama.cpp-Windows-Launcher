@@ -75,11 +75,6 @@ If you prefer running a single standalone binary without having a local Python e
    - It compiles `run.py` into a single standalone `LlamaLauncher.exe` file inside a newly created `/dist` folder.
    - It embeds the native `logo.ico` file directly as the Windows binary resource icon.
 
-### Troubleshooting: Executable Icon not showing up?
-Windows Explorer heavily caches executable icons. If your compiled `LlamaLauncher.exe` still shows the default Windows program icon:
-- Copy the file to another folder (e.g., your Desktop) or rename it to `LlamaLauncher_test.exe`. This forces Windows Explorer to clear its visual cache and display the retro custom icon.
-- Ensure `logo.ico` is a real `.ico` file containing multiple layers (16x16, 32x32, 48x48, 256x256), and not just a renamed `.png` file.
-
 ---
 
 ## Quick Start Configuration
