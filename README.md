@@ -18,10 +18,8 @@ A lightweight, Windows desktop launcher for `llama.cpp` builds. This GUI launche
 ## Key Features
 
 - **Retro Win95 Aesthetic**: Built using a custom stylesheet mimicking the classic Windows 95 Tahoma-driven, bevel-bordered graphical layout.
-- **Dynamic Window Resizing**: Automatically adapts window dimensions per active view—shrinking to an ultra-compact `380x310px` on the Home screen to eliminate dead vertical space, while expanding gracefully during detailed configuration.
 - **Smart Autodetection Wizard**: Spawns an algorithmic helper that queries your hardware VRAM, executes `llama-cli --info` to extract model metadata, calculates quantization load weights, and proposes optimized parameters (NGL layers, context size, threads, temp, template) for your exact GPU capacity.
 - **Modular Presets**: Presets are structured as independent JSON files stored in the `/presets` folder, allowing easy sharing, backing up, or manual editing.
-- **Safe Scroll prevents Accidental Changes**: Standard Qt wheel scroll actions are ignored on dropdowns and numeric boxes to avoid accidental parameter changes while navigating the settings page.
 - **Automatic Model Sync**: Changing your model on the home screen automatically saves the selection inside your active preset file. Switching presets automatically reloads the associated GGUF model.
 - **Integrated Actions**: Built-in triggers to launch standard performance benchmarks (`llama-bench`) or open the `llama-server` web interface locally with a single click.
 
