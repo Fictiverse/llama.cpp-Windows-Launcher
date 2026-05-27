@@ -30,7 +30,7 @@ A lightweight, Windows desktop launcher for `llama.cpp` builds. This GUI launche
 ```text
 ├── presets/             # Directory containing saved preset JSON files
 ├── build.bat            # Compiles the Python script into a standalone .exe
-├── launcher.bat         # Sets up local virtual environment, installs PyQt6 and runs run.py
+├── run.bat              # Sets up local virtual environment, installs PyQt6 and runs run.py
 ├── run.py               # Core PyQt6 Python application
 ├── logo.svg             # Application window icon (Scalable vector format)
 ├── logo.ico             # Desktop binary executable icon resource (Windows native)
