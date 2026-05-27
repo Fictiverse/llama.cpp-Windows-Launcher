@@ -39,9 +39,19 @@ A lightweight, Windows desktop launcher for `llama.cpp` builds. This GUI launche
 
 ---
 
-## How to Install and Run (Local Mode)
+## How to Install and Run
 
-### Prerequisites
+### Option 1: Standalone Release (Quickest)
+If you do not want to install Python, you can use the pre-compiled standalone executable:
+1. Download the latest release from the [Releases](https://github.com/Fictiverse/llama.cpp-Windows-Launcher/releases) page.
+2. Extract the archive and double-click **`LlamaLauncher.exe`** to start.
+
+---
+
+### Option 2: Run from Source (Python)
+If you prefer running the launcher directly from the source code:
+
+#### Prerequisites
 - [Python 3.8+](https://www.python.org/downloads/) installed and added to your system `PATH`.
 
 ### Execution Steps
